@@ -1,1 +1,1 @@
-# implementation-of-data-structure
+# implementation-of-stack,queue,linkedlist
